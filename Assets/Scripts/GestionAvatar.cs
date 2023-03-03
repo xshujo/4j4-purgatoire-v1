@@ -48,8 +48,6 @@ public class GestionAvatar : MonoBehaviour
                     vitesseX = GetComponent<Rigidbody2D>().velocity.x;
                 }
 
-                // Applique les vitesses en X et en Y
-                GetComponent<Rigidbody2D>().velocity = new Vector2(vitesseX, vitesseY);
 
                 /**************************************************************************************************************** Animations de déplacement et de repos */
                 // Si la vitesse de l'avatar est supérieur ou inférieur à 0...
@@ -62,6 +60,22 @@ public class GestionAvatar : MonoBehaviour
                 {
                     GetComponent<Animator>().SetBool("Course", false); // L'animation de repos joue
                 }
+
+                /**************************************************************************************************************** Saut et animation de saut */
+                // Si le joueur appuie sur la touche W ou la flèche Haut et que l'avatar touche au sol...
+                if ((Input.GetKeyDown(KeyCode.W) && Physics2D.OverlapCircle(transform.position, 0.5f))
+                    || (Input.GetKeyDown(KeyCode.UpArrow) && Physics2D.OverlapCircle(transform.position, 0.5f)))
+                {
+                    vitesseY = vitesseSaut; // L'avatar saute
+                    GetComponent<Animator>().SetBool("Saut", true); // L'animation de saut joue
+                }
+                // Mémorise la vitesse actuelle en Y
+                else
+                {
+                    vitesseY = GetComponent<Rigidbody2D>().velocity.y; /////////////////////////////////////// Animation de saut à false?
+                }
+                // Applique les vitesses en X et en Y
+                GetComponent<Rigidbody2D>().velocity = new Vector2(vitesseX, vitesseY);
             }
         }
         
