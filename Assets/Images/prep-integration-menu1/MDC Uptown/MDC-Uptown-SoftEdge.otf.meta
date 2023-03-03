@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6c2c12c7af61a024086ae00855e0ceb7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MDC-Uptown
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: eb9cd872602618546bbf7d7bf8353d6d, type: 3}
+  - {fileID: 12800000, guid: ba3f480b86ba43941989c3c12fa01733, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
