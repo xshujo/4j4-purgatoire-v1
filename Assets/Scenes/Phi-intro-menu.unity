@@ -1118,7 +1118,7 @@ GameObject:
   - component: {fileID: 1962652263}
   - component: {fileID: 1962652262}
   m_Layer: 5
-  m_Name: Reglage (1)
+  m_Name: Quitter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1173,7 +1173,7 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 21300000, guid: 20b45704c5c33ed46a0c062cbe4aa6f1, type: 3}
+    m_HighlightedSprite: {fileID: 21300000, guid: 10964e4e0e7247d4ebb3dd8b7bd316b7, type: 3}
     m_PressedSprite: {fileID: 0}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
@@ -1208,7 +1208,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3aa7088e4504a324993a39363cc00c89, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 203b45afdc2eff54db2cf327669c108b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
