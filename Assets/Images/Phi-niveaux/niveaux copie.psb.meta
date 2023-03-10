@@ -1,0 +1,1165 @@
+fileFormatVersion: 2
+guid: 53c48256f343f734aa2b22485f00e959
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Niveau3-eauAvant
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 6855
+      y: 5420
+      width: 8505
+      height: 1006
+    spriteID: 1c2b39de0d3c3e648a16b7e7216da6d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 6855, y: 5420}
+    spritePosition: {x: 15721, y: 6468}
+  - name: Niveau3-docs
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32435
+      y: 5443
+      width: 300
+      height: 490
+    spriteID: dde55d0de8e60ee4e99ce5591067a8b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32435, y: 5443}
+    spritePosition: {x: 16966, y: 7292}
+  - name: Niveau3-plan1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 6855
+      y: 3252
+      width: 10000
+      height: 2160
+    spriteID: 80c172aff61e8954498b69d15f41ee74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 6855, y: 3252}
+    spritePosition: {x: 14226, y: 6468}
+  - name: Niveau3-plan2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10012
+      y: 8668
+      width: 10000
+      height: 1403
+    spriteID: a004b2fad7848274ca8c5bf123156c4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10012, y: 8668}
+    spritePosition: {x: 14226, y: 6468}
+  - name: Niveau3-pont
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 20020
+      y: 8668
+      width: 3565
+      height: 2090
+    spriteID: e944f166698ccd04b96f07c8d3a67f16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 20020, y: 8668}
+    spritePosition: {x: 20711, y: 6427}
+  - name: Niveau3-plan3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16863
+      y: 3252
+      width: 10000
+      height: 2160
+    spriteID: 6fcdea0a74f0eb145be1e238ac861d22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 16863, y: 3252}
+    spritePosition: {x: 14226, y: 6468}
+  - name: Niveau3-eauArriere
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 23593
+      y: 8668
+      width: 8113
+      height: 717
+    spriteID: 9e3c4f136e7150f49a1d107e9afdce09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 23593, y: 8668}
+    spritePosition: {x: 16092, y: 6468}
+  - name: Niveau3-fond
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6500
+      width: 10000
+      height: 2160
+    spriteID: 522725557b350cd45aed38302c445cca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6500}
+    spritePosition: {x: 14226, y: 6468}
+  - name: Niveau1-cubeA
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31673
+      y: 6199
+      width: 286
+      height: 274
+    spriteID: 3fb68dd6210b7b143a23ec4fd7f286f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31673, y: 6199}
+    spritePosition: {x: 7014, y: 467}
+  - name: Niveau1-cubeH
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32435
+      y: 5941
+      width: 286
+      height: 279
+    spriteID: 47773c7c283776c41becda6cef6e0e0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32435, y: 5941}
+    spritePosition: {x: 7384, y: 467}
+  - name: Niveau1-cubeC
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29561
+      y: 2532
+      width: 286
+      height: 271
+    spriteID: f8a09940da4469c4391233c5b3fe1657
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29561, y: 2532}
+    spritePosition: {x: 8210, y: 459}
+  - name: Niveau1-cube7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31967
+      y: 6199
+      width: 275
+      height: 282
+    spriteID: d58c0ff7d815df54e9520fac99196d12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31967, y: 6199}
+    spritePosition: {x: 7025, y: 741}
+  - name: Niveau1-cube5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30749
+      y: 3252
+      width: 765
+      height: 736
+    spriteID: df51c009479e7ca4eb99aed192890336
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30749, y: 3247}
+    spritePosition: {x: 6041, y: 5}
+  - name: Niveau1-cube2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16324
+      y: 6168
+      width: 401
+      height: 282
+    spriteID: 42193db49bd494149bdaa3f6d639bcc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 16324, y: 6168}
+    spritePosition: {x: 7881, y: 459}
+  - name: Niveau1-planete1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31673
+      y: 5443
+      width: 754
+      height: 748
+    spriteID: 39345e50499e132469601d84ff6ee532
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31673, y: 5443}
+    spritePosition: {x: 979, y: 1783}
+  - name: nuage
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 10836
+      width: 936
+      height: 3673
+    spriteID: cb0b20a9e3d28a1468e5898fddc09a5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 10836}
+    spritePosition: {x: 9178, y: 985}
+  - name: Calque 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29374
+      y: 4
+      width: 854
+      height: 2520
+    spriteID: dfcd6ea93690b3e4e9578f771b41ad4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29374, y: 4}
+    spritePosition: {x: 2841, y: 371}
+  - name: Niveau1-loops
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26871
+      y: 5443
+      width: 3964
+      height: 936
+    spriteID: 4e3dd5b65a72bf748869b7a47f800215
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26871, y: 5443}
+    spritePosition: {x: 2247, y: 371}
+  - name: Niveau1-etoile1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29374
+      y: 2532
+      width: 179
+      height: 644
+    spriteID: 4283be02d48021541855dc4b93ea9553
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29374, y: 2532}
+    spritePosition: {x: 993, y: 1875}
+  - name: Niveau1-soucoupe
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 15368
+      y: 5420
+      width: 948
+      height: 1066
+    spriteID: 18d38f5d4e2d97545868c6f24ac90f35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 15368, y: 5420}
+    spritePosition: {x: 4947, y: 1465}
+  - name: Niveau1-planete2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30843
+      y: 5443
+      width: 822
+      height: 842
+    spriteID: 97e392e8970236b45bd321db7b803ee9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30843, y: 5443}
+    spritePosition: {x: 7259, y: 1689}
+  - name: Niveau1-plan2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10012
+      y: 6500
+      width: 10000
+      height: 2160
+    spriteID: 8b1f5c9c07f99bf4aa3596d8ce5de72a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10012, y: 6500}
+    spritePosition: {x: 794, y: 371}
+  - name: Calque 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26871
+      y: 3252
+      width: 3870
+      height: 2183
+    spriteID: a60f07f5370d1774490ea3f8be7a70fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26871, y: 3252}
+    spritePosition: {x: 7422, y: 1875}
+  - name: Niveau1-plan3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 20020
+      y: 6500
+      width: 10000
+      height: 2160
+    spriteID: 66d413e4cc9e51f4bbe17c947da4ad1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 20020, y: 6500}
+    spritePosition: {x: 794, y: 371}
+  - name: Niveau1-fond
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 8668
+      width: 10000
+      height: 2160
+    spriteID: 64fb904229b26d44fb669c28dac5ad0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 8668}
+    spritePosition: {x: 794, y: 371}
+  - name: Niveau2-plan1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 10000
+      height: 3240
+    spriteID: e67282ea2ccf2ea45b0571a061895303
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 6627, y: 3265}
+  - name: mur-monstres
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16324
+      y: 5420
+      width: 425
+      height: 740
+    spriteID: 72d4932afa44a834ea822c671e4aeb3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 16324, y: 5420}
+    spritePosition: {x: 10144, y: 5760}
+  - name: Niveau2-plan2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3252
+      width: 6843
+      height: 3240
+    spriteID: f28bd25a3760b13418a089de2a344f82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3252}
+    spritePosition: {x: 6661, y: 3265}
+  - name: Niveau2-plan3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 20020
+      y: 4
+      width: 9346
+      height: 3240
+    spriteID: 4ba98bbe8ac57024aad6aaa1df965798
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 20020, y: 4}
+    spritePosition: {x: 6627, y: 3265}
+  - name: Niveau2-fond
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10012
+      y: 4
+      width: 10000
+      height: 3240
+    spriteID: 7db49ffff08ef3446948c68113b674d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10012, y: 4}
+    spritePosition: {x: 6627, y: 3265}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: niveau3
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: ffb9120797319d54fb467c6e067a4363
+    layerID: 23
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Niveau3-noirceur
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 90ea1a4f8441c2643b1b85fc80144943
+    layerID: 18
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Niveau3-eauAvant
+    spriteName: Niveau3-eauAvant
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1c2b39de0d3c3e648a16b7e7216da6d0
+    layerID: 16
+    mosaicPosition: {x: 6855, y: 5420}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau3-docs
+    spriteName: Niveau3-docs
+    isGroup: 0
+    parentIndex: 0
+    spriteID: dde55d0de8e60ee4e99ce5591067a8b9
+    layerID: 14
+    mosaicPosition: {x: 32435, y: 5443}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau3-plan1
+    spriteName: Niveau3-plan1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 80c172aff61e8954498b69d15f41ee74
+    layerID: 19
+    mosaicPosition: {x: 6855, y: 3252}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau3-plan2
+    spriteName: Niveau3-plan2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a004b2fad7848274ca8c5bf123156c4f
+    layerID: 20
+    mosaicPosition: {x: 10012, y: 8668}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau3-pont
+    spriteName: Niveau3-pont
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e944f166698ccd04b96f07c8d3a67f16
+    layerID: 22
+    mosaicPosition: {x: 20020, y: 8668}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau3-plan3
+    spriteName: Niveau3-plan3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6fcdea0a74f0eb145be1e238ac861d22
+    layerID: 21
+    mosaicPosition: {x: 16863, y: 3252}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau3-eauArriere
+    spriteName: Niveau3-eauArriere
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9e3c4f136e7150f49a1d107e9afdce09
+    layerID: 15
+    mosaicPosition: {x: 23593, y: 8668}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau3-fond
+    spriteName: Niveau3-fond
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 522725557b350cd45aed38302c445cca
+    layerID: 17
+    mosaicPosition: {x: 4, y: 6500}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau1-cubeA
+    spriteName: Niveau1-cubeA
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3fb68dd6210b7b143a23ec4fd7f286f2
+    layerID: 100
+    mosaicPosition: {x: 31673, y: 6199}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau1-cubeH
+    spriteName: Niveau1-cubeH
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 47773c7c283776c41becda6cef6e0e0d
+    layerID: 99
+    mosaicPosition: {x: 32435, y: 5941}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau1-cubeC
+    spriteName: Niveau1-cubeC
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f8a09940da4469c4391233c5b3fe1657
+    layerID: 98
+    mosaicPosition: {x: 29561, y: 2532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau1-cube7
+    spriteName: Niveau1-cube7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d58c0ff7d815df54e9520fac99196d12
+    layerID: 97
+    mosaicPosition: {x: 31967, y: 6199}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau1-cube5
+    spriteName: Niveau1-cube5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: df51c009479e7ca4eb99aed192890336
+    layerID: 96
+    mosaicPosition: {x: 30749, y: 3252}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau1-cube2
+    spriteName: Niveau1-cube2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 42193db49bd494149bdaa3f6d639bcc7
+    layerID: 95
+    mosaicPosition: {x: 16324, y: 6168}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: niveau1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 964a3e83f44193848ab19895281baee0
+    layerID: 10
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Niveau1-planete1
+    spriteName: Niveau1-planete1
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 39345e50499e132469601d84ff6ee532
+    layerID: 38
+    mosaicPosition: {x: 31673, y: 5443}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: nuage
+    spriteName: nuage
+    isGroup: 0
+    parentIndex: 16
+    spriteID: cb0b20a9e3d28a1468e5898fddc09a5c
+    layerID: 69
+    mosaicPosition: {x: 4, y: 10836}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Calque 1
+    spriteName: Calque 1
+    isGroup: 0
+    parentIndex: 16
+    spriteID: dfcd6ea93690b3e4e9578f771b41ad4c
+    layerID: 39
+    mosaicPosition: {x: 29374, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau1-loops
+    spriteName: Niveau1-loops
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 4e3dd5b65a72bf748869b7a47f800215
+    layerID: 33
+    mosaicPosition: {x: 26871, y: 5443}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau1-etoile1
+    spriteName: Niveau1-etoile1
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 4283be02d48021541855dc4b93ea9553
+    layerID: 31
+    mosaicPosition: {x: 29374, y: 2532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau1-soucoupe
+    spriteName: Niveau1-soucoupe
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 18d38f5d4e2d97545868c6f24ac90f35
+    layerID: 30
+    mosaicPosition: {x: 15368, y: 5420}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau1-planete2
+    spriteName: Niveau1-planete2
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 97e392e8970236b45bd321db7b803ee9
+    layerID: 29
+    mosaicPosition: {x: 30843, y: 5443}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau1-plan2
+    spriteName: Niveau1-plan2
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 8b1f5c9c07f99bf4aa3596d8ce5de72a
+    layerID: 36
+    mosaicPosition: {x: 10012, y: 6500}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Calque 2
+    spriteName: Calque 2
+    isGroup: 0
+    parentIndex: 16
+    spriteID: a60f07f5370d1774490ea3f8be7a70fc
+    layerID: 40
+    mosaicPosition: {x: 26871, y: 3252}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau1-plan3
+    spriteName: Niveau1-plan3
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 66d413e4cc9e51f4bbe17c947da4ad1d
+    layerID: 37
+    mosaicPosition: {x: 20020, y: 6500}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau1-fond
+    spriteName: Niveau1-fond
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 64fb904229b26d44fb669c28dac5ad0e
+    layerID: 32
+    mosaicPosition: {x: 4, y: 8668}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: niveau2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 1fa89115064fb974ea4e3674db55300b
+    layerID: 12
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Niveau2-plan1
+    spriteName: Niveau2-plan1
+    isGroup: 0
+    parentIndex: 28
+    spriteID: e67282ea2ccf2ea45b0571a061895303
+    layerID: 8
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: mur-monstres
+    spriteName: mur-monstres
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 72d4932afa44a834ea822c671e4aeb3c
+    layerID: 74
+    mosaicPosition: {x: 16324, y: 5420}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau2-plan2
+    spriteName: Niveau2-plan2
+    isGroup: 0
+    parentIndex: 28
+    spriteID: f28bd25a3760b13418a089de2a344f82
+    layerID: 9
+    mosaicPosition: {x: 4, y: 3252}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau2-plan3
+    spriteName: Niveau2-plan3
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 4ba98bbe8ac57024aad6aaa1df965798
+    layerID: 6
+    mosaicPosition: {x: 20020, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Niveau2-fond
+    spriteName: Niveau2-fond
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 7db49ffff08ef3446948c68113b674d3
+    layerID: 7
+    mosaicPosition: {x: 10012, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Arri\xE8re-plan"
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ce81e9b0deca8974ebd8eb90aa4b559d
+    layerID: 1
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638137827958678567
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
